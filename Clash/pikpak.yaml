@@ -1,0 +1,11 @@
+# NAME: 115
+payload:
+  - DOMAIN-SUFFIX,api-drive.mypikpak.com
+  - DOMAIN-SUFFIX,api-drive.mypikpak.net
+  - DOMAIN-SUFFIX, api-drive.pikpak.me
+  - DOMAIN-SUFFIX,api-drive.pikpakdrive.com
+  - DOMAIN-SUFFIX,access.mypikpak.com
+  - DOMAIN-SUFFIX,access.mypikpak.net
+  - DOMAIN-SUFFIX,access.pikpak.me
+  - DOMAIN-SUFFIX,access.pikpakdrive.com
+  - DOMAIN-SUFFIX,info.mypikpak.com
