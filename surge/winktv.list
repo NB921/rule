@@ -1,0 +1,7 @@
+# NAME: winktv
+
+PROCESS-NAME,kr.co.winktv.player
+DOMAIN-SUFFIX,live-video.net,WinkTV
+DOMAIN-SUFFIX,neolive.kr,WinkTV
+DOMAIN-SUFFIX,winktv.co.kr,WinkTV
+DOMAIN-SUFFIX,pandalive.co.kr,WinkTV
