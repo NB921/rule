@@ -6,6 +6,9 @@ DOMAIN,m.11qiuxia.com
 # BT电影天堂
 DOMAIN-SUFFIX,ibtdy.com
 
+# 淘影网
+DOMAIN-SUFFIX,tianlongyingy.com
+
 # Emby
 DOMAIN-SUFFIX,micu.hk
 
