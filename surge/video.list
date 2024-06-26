@@ -3,6 +3,9 @@
 # 秋霞电影网
 DOMAIN,m.11qiuxia.com
 
+# BT电影天堂
+DOMAIN-SUFFIX,ibtdy.com
+
 # Emby
 DOMAIN-SUFFIX,micu.hk
 
